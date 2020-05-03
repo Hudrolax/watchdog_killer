@@ -20,4 +20,5 @@ class Dependence:
 
 if __name__ == '__main__':
     Dependence.append('pythonping')
+    Dependence.append('psutil')
     Dependence.init()
